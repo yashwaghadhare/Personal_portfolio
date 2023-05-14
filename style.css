@@ -235,7 +235,7 @@ section .title::after {
 /* about section styling */
 
 .about .title::after {
-    content: "who i am";
+    content: "who I am";
 }
 
 .about .about-content .left {
@@ -243,7 +243,7 @@ section .title::after {
 }
 
 .about .about-content .left img {
-    height: 600px;
+    height: 500px;
     width: 400px;
     object-fit: cover;
     border-radius: 6px;
